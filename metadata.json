@@ -1,0 +1,7 @@
+{
+  "name": "Rainy-Day Rescue (Google AI Studio)",
+  "description": "A mobile-first MVP application designed to help users find the best indoor spots with convenient parking during rainy weather.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
